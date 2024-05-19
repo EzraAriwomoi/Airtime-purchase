@@ -1,0 +1,9 @@
+{
+    "require": {
+        "clgsru/composer-modify-autoload": "^1.0",
+        "instasent/instasent-php-lib": "^0.1.4",
+        "intasend/intasend-php": "^1.1",
+        "guzzlehttp/guzzle": "^7.8",
+        "vendor/sdk": "^1.0"
+    }
+}
