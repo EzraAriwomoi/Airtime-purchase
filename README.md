@@ -9,6 +9,7 @@ This project demonstrates how to purchase airtime using the IntaSend API.
 ### Setup
 1. **Get your credentials:**
    - Go to the IntaSend dashboard and retrieve your `consumerKey` and `consumerSecret`.
+     
    
 2. **Add your credentials to the code:**
    Replace the placeholders with your actual credentials in the following variables:
